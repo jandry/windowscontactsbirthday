@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory>ftp://barryannecy.free.fr/windowscontactsbirthday/|publier\</PublishUrlHistory>
-    <InstallUrlHistory>http://barryannecy.free.fr/windowscontactsbirthday/</InstallUrlHistory>
+    <PublishUrlHistory>ftp://guillaume.barry.free.fr/windowscontactsbirthday/|ftp://barryannecy.free.fr/windowscontactsbirthday/|publier\</PublishUrlHistory>
+    <InstallUrlHistory>http://guillaume.barry.free.fr/windowscontactsbirthday/|http://guillaumebarry.free.fr/windowscontactsbirthday/|http://barryannecy.free.fr/windowscontactsbirthday/</InstallUrlHistory>
     <SupportUrlHistory />
     <UpdateUrlHistory />
     <BootstrapperUrlHistory />

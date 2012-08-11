@@ -5,10 +5,10 @@ using System.Runtime.InteropServices;
 // Les informations générales relatives à un assembly dépendent de 
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("WindowsContactsBirthday")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Windows Contacts Birthday")]
+[assembly: AssemblyDescription("Application to show the birthday into your Windows Contact")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Guillaume Barry")]
 [assembly: AssemblyProduct("WindowsContactsBirthday")]
 [assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]

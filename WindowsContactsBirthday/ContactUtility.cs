@@ -108,7 +108,7 @@ namespace WindowsContactsBirthday
                     DateTime? birthDate = pContact.Dates[0];
                     result = birthDate.HasValue;
                 }
-                catch (SchemaException e)
+                catch (SchemaException)
                 {
                     result = false;
                 }
