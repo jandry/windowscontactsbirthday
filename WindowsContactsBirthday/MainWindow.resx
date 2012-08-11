@@ -120,29 +120,7 @@
   <metadata name="notifyIcon.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="notifyIcon.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
-    <value>
-        AAABAAEAEBAAAAAAAABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAA
-        AAD///8AAAAAAAAAAAAAAAAAAAAAAQAAADhONRqVcUwluXFMJb5NNBqdAAAASwAAAAoAAAAAAAAAAAAA
-        AAD///8A////AAAAAACJUSWr//Xs///27P//79///tKj/9e5jf/Yuo///9er///y5f//9/D//uza/39N
-        JM4AAAAA////AP///wD7sn7///z6/xZkq/8HXbj/AGTH/wBpx/8Absf/AHPH/wB3x/8Cc8L/Cmiy/xlp
-        qP///v3/+YhC/////wD///8A/+/e/xdXlP8WVp3/B124/wBkx/8Aacf/AG7H/wBzx/8Ad8f/AnPC/wpo
-        sv8aU5T/C2az//3FmP////8A////AAAAAAAbV5L/Flad/wdduP8AZMf/AGnH/wBux/8Ac8f/AHfH/wJz
-        wv8KaLL/GlOU/wxosv8AAAAB////AP///wAAAAAAG1aR/xNUm/8HXbj/AGTH/wBoxv/j9f//5vb//wB1
-        xv8Cc8L/Cmiy/+H2/f8NZ6//AAAAAP///wD///8AAAAAAB1Ykv//////4fP8/wNmx//+////////////
-        ////////CHbD/+b0+///////CWGp/wAAAAD///8A////AAAAAADJ4fH/9/v//6ve//+t3///rd///63f
-        //+t3///rd///63f//+q3v///v7//1We0f8AAAAA////AP///wAAAAAA9fv//+74///u+P//7vj//+74
-        ///u+P//7vj//+74///u+P//7vj//+74//++2ev/AAAAAP///wD///8AAAAAACh4tNH9/v///f7///3+
-        ///9/v//ycnk/2dnvf/9/v///f7///3+///9/v//EEZ0tgAAAAD///8A////AAAAAAAAAAAAAAAAACFZ
-        kb5rosb/xu79/8XF3/9kZ7v/vun6/1uRuv8eRnazAAAAAAAAAAAAAAAA////AP///wAAAAAAAAAAAAAA
-        AAAAAAAAAAAAAAAAAADExNv/TEyf9gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP///wD///8AAAAAAAAA
-        AAAAAAAAAAAAAAAAAAAAAAAAjJvW/0NBkeYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8A////AAAA
-        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA+f8DVv//AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////AP//
-        /wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGb//wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
-        /wD///8Af39/AH9/fwB/f38Af39/AH9/fwB/f38Af39/AH9/fwB/f38Af39/AH9/fwB/f38Af39/AH9/
-        fwD///8A/D8AAMADAACAAQAAgAEAAMADAADAAwAAwAMAAMADAADAAwAAwAMAAPAPAAD+fwAA/n8AAP5/
-        AAD/fwAA//8AAA==
-</value>
-  </data>
+  <metadata name="birthdayCheckWorker.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>123, 17</value>
+  </metadata>
 </root>
