@@ -37,7 +37,7 @@ namespace WindowsContactsBirthday.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("60")]
+        [global::System.Configuration.DefaultSettingValueAttribute("360")]
         public int WorkerInMn {
             get {
                 return ((int)(this["WorkerInMn"]));

@@ -117,29 +117,35 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="BirthdayNotificationTitle" xml:space="preserve">
-    <value>Windows Contacts Birthday</value>
+  <data name="ApplicationMenuItemExit" xml:space="preserve">
+    <value>Quitter</value>
   </data>
-  <data name="ExitMenuItem" xml:space="preserve">
-    <value>Exit</value>
+  <data name="ApplicationMenuItemShowBirthday" xml:space="preserve">
+    <value>Voir les anniversaires</value>
   </data>
-  <data name="NoBirthdayNotificationText" xml:space="preserve">
+  <data name="ApplicationMenuItemShowNotification" xml:space="preserve">
+    <value>Afficher la notification</value>
+  </data>
+  <data name="ApplicationNotificationTextNoBirthday" xml:space="preserve">
     <value>Pas d'anniversaire à venir.</value>
+  </data>
+  <data name="ApplicationNotificationTextTodayBirthday" xml:space="preserve">
+    <value>{0} aura {1} ans aujourd'hui.</value>
+  </data>
+  <data name="ApplicationNotificationTextTodayOneYear" xml:space="preserve">
+    <value>{0} aura {1} an aujourd'hui.</value>
+  </data>
+  <data name="ApplicationNotificationTextWeekBirthday" xml:space="preserve">
+    <value>{0} aura {1} ans le {2}/{3}.</value>
+  </data>
+  <data name="ApplicationNotificationTextWeekOneYear" xml:space="preserve">
+    <value>{0} aura {1} an le {2}/{3}.</value>
+  </data>
+  <data name="ApplicationNotificationTitle" xml:space="preserve">
+    <value>Windows Contacts Birthday</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="NotificationIcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\NotificationIcon.ico;System.Drawing.Icon, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="TodayBirthdayNotificationText" xml:space="preserve">
-    <value>{0} aura {1} ans aujourd'hui.</value>
-  </data>
-  <data name="TodayOneYearNotificationText" xml:space="preserve">
-    <value>{0} aura {1} an aujourd'hui.</value>
-  </data>
-  <data name="WeekBirthdayNotificationText" xml:space="preserve">
-    <value>{0} aura {1} ans le {2}/{3}.</value>
-  </data>
-  <data name="WeekOneYearNotificationText" xml:space="preserve">
-    <value>{0} aura {1} an le {2}/{3}.</value>
   </data>
 </root>

@@ -61,29 +61,83 @@ namespace WindowsContactsBirthday.Properties {
         }
         
         /// <summary>
-        ///   Recherche une chaîne localisée semblable à Windows Contacts Birthday.
+        ///   Recherche une chaîne localisée semblable à Quitter.
         /// </summary>
-        internal static string BirthdayNotificationTitle {
+        internal static string ApplicationMenuItemExit {
             get {
-                return ResourceManager.GetString("BirthdayNotificationTitle", resourceCulture);
+                return ResourceManager.GetString("ApplicationMenuItemExit", resourceCulture);
             }
         }
         
         /// <summary>
-        ///   Recherche une chaîne localisée semblable à Exit.
+        ///   Recherche une chaîne localisée semblable à Voir les anniversaires.
         /// </summary>
-        internal static string ExitMenuItem {
+        internal static string ApplicationMenuItemShowBirthday {
             get {
-                return ResourceManager.GetString("ExitMenuItem", resourceCulture);
+                return ResourceManager.GetString("ApplicationMenuItemShowBirthday", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Afficher la notification.
+        /// </summary>
+        internal static string ApplicationMenuItemShowNotification {
+            get {
+                return ResourceManager.GetString("ApplicationMenuItemShowNotification", resourceCulture);
             }
         }
         
         /// <summary>
         ///   Recherche une chaîne localisée semblable à Pas d&apos;anniversaire à venir..
         /// </summary>
-        internal static string NoBirthdayNotificationText {
+        internal static string ApplicationNotificationTextNoBirthday {
             get {
-                return ResourceManager.GetString("NoBirthdayNotificationText", resourceCulture);
+                return ResourceManager.GetString("ApplicationNotificationTextNoBirthday", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à {0} aura {1} ans aujourd&apos;hui..
+        /// </summary>
+        internal static string ApplicationNotificationTextTodayBirthday {
+            get {
+                return ResourceManager.GetString("ApplicationNotificationTextTodayBirthday", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à {0} aura {1} an aujourd&apos;hui..
+        /// </summary>
+        internal static string ApplicationNotificationTextTodayOneYear {
+            get {
+                return ResourceManager.GetString("ApplicationNotificationTextTodayOneYear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à {0} aura {1} ans le {2}/{3}..
+        /// </summary>
+        internal static string ApplicationNotificationTextWeekBirthday {
+            get {
+                return ResourceManager.GetString("ApplicationNotificationTextWeekBirthday", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à {0} aura {1} an le {2}/{3}..
+        /// </summary>
+        internal static string ApplicationNotificationTextWeekOneYear {
+            get {
+                return ResourceManager.GetString("ApplicationNotificationTextWeekOneYear", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Recherche une chaîne localisée semblable à Windows Contacts Birthday.
+        /// </summary>
+        internal static string ApplicationNotificationTitle {
+            get {
+                return ResourceManager.GetString("ApplicationNotificationTitle", resourceCulture);
             }
         }
         
@@ -94,42 +148,6 @@ namespace WindowsContactsBirthday.Properties {
             get {
                 object obj = ResourceManager.GetObject("NotificationIcon", resourceCulture);
                 return ((System.Drawing.Icon)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Recherche une chaîne localisée semblable à {0} aura {1} ans aujourd&apos;hui..
-        /// </summary>
-        internal static string TodayBirthdayNotificationText {
-            get {
-                return ResourceManager.GetString("TodayBirthdayNotificationText", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Recherche une chaîne localisée semblable à {0} aura {1} an aujourd&apos;hui..
-        /// </summary>
-        internal static string TodayOneYearNotificationText {
-            get {
-                return ResourceManager.GetString("TodayOneYearNotificationText", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Recherche une chaîne localisée semblable à {0} aura {1} ans le {2}/{3}..
-        /// </summary>
-        internal static string WeekBirthdayNotificationText {
-            get {
-                return ResourceManager.GetString("WeekBirthdayNotificationText", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Recherche une chaîne localisée semblable à {0} aura {1} an le {2}/{3}..
-        /// </summary>
-        internal static string WeekOneYearNotificationText {
-            get {
-                return ResourceManager.GetString("WeekOneYearNotificationText", resourceCulture);
             }
         }
     }
